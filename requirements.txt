@@ -1,0 +1,6 @@
+# Project Dependencies for AI Vehicle Damage Analyzer
+# Install via: pip install -r requirements.txt
+
+streamlit
+google-generativeai
+Pillow
